@@ -5,7 +5,7 @@ host: ""
 port: 8317
 # TLS settings for HTTPS. When enabled, the server listens with the provided certificate and key.
 tls:
-  enable: true
+  enable: false
   cert: ""
   key: ""
 # Management API settings
